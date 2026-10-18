@@ -11,7 +11,7 @@ The project aims to reduce the effort of finding the right service and make info
 Contents
 1. The problem
 2. Our solution
-3.Features in the current prototype
+3. Features in the current prototype
 4. Who it is for
 5. AI/ML approach
 6. TinyFish integration plan
