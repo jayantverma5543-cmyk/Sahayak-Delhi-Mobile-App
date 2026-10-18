@@ -7,8 +7,8 @@ AI/ML Track · Android
 
 Sahayak Delhi is an Android prototype that brings several everyday and urgent-help workflows into one mobile experience: emergency guidance, hospital and doctor discovery, first-aid information, rule-based symptom guidance, water-tanker workflows, exam counselling, voice-assisted interactions, universal search, and form autofill.
 The project aims to reduce the effort of finding the right service and make information journeys easier to navigate. Its planned TinyFish integration adds a live-web evidence layer so users can discover current pages, inspect extracted content, and open the original source.
+
 Contents
----
 1. The problem
 2. Our solution
 3.Features in the current prototype
@@ -24,10 +24,9 @@ Contents
 13. Roadmap
 14. Contributing
 ---
-1.The problem
+1. The problem
 Finding a suitable next step for healthcare and civic needs can require switching between separate apps, search results, forms, and service websites. This can be particularly difficult when someone is stressed, has limited time, is unfamiliar with official websites, or would benefit from voice input and reduced typing.
 Sahayak Delhi explores a unified mobile entry point for common journeys. A second challenge is information trust: a useful answer should not merely sound convincing; people should be able to inspect where web information came from and when it was retrieved.
-
 
 2. Our solution
 Sahayak Delhi combines local mobile workflows with a planned source-backed web layer:
